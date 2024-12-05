@@ -149,15 +149,15 @@ If you find our work useful, please cite it using the following references:
 ```bibtex
 @article{scalingnewfrontiers,
   title={Scaling New Frontiers: Insights into Large Recommendation Models},
-  author={Wei Guo, Hao Wang, Luankang Zhang, Jin Yao Chin, Zhongzhou Liu, Kai Cheng, Qiushi Pan, Yi Quan Lee, Wanqi Xue, Tingjia Shen, Kenan Song, Kefan Wang, Wenjia Xie, Yuyang Ye, Huifeng Guo, Yong Liu, Defu Lian, Ruiming Tang, Enhong Chen},
+  author={Guo, Wei and Wang, Hao and Zhang, Luankang and Chin, Jin Yao and Liu, Zhongzhou and Cheng, Kai and Pan, Qiushi and Lee, Yi Quan and Xue, Wanqi and Shen, Tingjia and Song, Kenan and Wang, Kefan and Xie, Wenjia and Ye, Yuyang and Guo, Huifeng and Liu, Yong and Lian, Defu and Tang, Ruiming and Chen, Enhong},
   journal={arXiv preprint arXiv:2412.00714},
   year={2024}
 }
 ```
 ```bibtex
-@article{scalingnewfrontiers,
+@article{PerformanceLaws,
   title={Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights},
-  author={Tingjia Shen, Hao Wang, Chuhan Wu, Jin Yao Chin, Wei Guo, Yong Liu, Huifeng Guo, Defu Lian, Ruiming Tang, Enhong Chen},
+  author={Shen, Tingjia and Wang, Hao and Wu, Chuhan and Chin, Jin Yao and Guo, Wei and Liu, Yong and Guo, Huifeng and Lian, Defu and Tang, Ruiming and Chen, Enhong},
   journal={arXiv preprint arXiv:2412.00430},
   year={2024}
 }
