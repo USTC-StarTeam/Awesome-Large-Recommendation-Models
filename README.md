@@ -1,4 +1,4 @@
-# Large Recommendation Models
+# Awesome-Large-Recommendation-Models
 
 Welcome to the GitHub repository dedicated to exploring and advancing large recommendation models. This repository will be continuously updated with the latest works and insights in this rapidly evolving field.
 
@@ -142,3 +142,35 @@ Welcome to the GitHub repository dedicated to exploring and advancing large reco
 | **Convolutional matrix factorization for document context-aware recommendation** | [PDF](https://dparra.sitios.ing.uc.cl/classes/recsys-2016-2/students/CNN-GSepulveda.pdf) | 2016-9-7 | - |
 | **node2vec: Scalable feature learning for networks** | [PDF](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754) | 2016-8-13 | - |
 
+
+## Citation
+
+If you find our work useful, please cite it using the following references:
+```bibtex
+@article{scalingnewfrontiers,
+  title={Scaling New Frontiers: Insights into Large Recommendation Models},
+  author={Wei Guo, Hao Wang, Luankang Zhang, Jin Yao Chin, Zhongzhou Liu, Kai Cheng, Qiushi Pan, Yi Quan Lee, Wanqi Xue, Tingjia Shen, Kenan Song, Kefan Wang, Wenjia Xie, Yuyang Ye, Huifeng Guo, Yong Liu, Defu Lian, Ruiming Tang, Enhong Chen},
+  journal={arXiv preprint arXiv:2412.00714},
+  year={2024}
+}
+```
+```bibtex
+@article{scalingnewfrontiers,
+  title={Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights},
+  author={Tingjia Shen, Hao Wang, Chuhan Wu, Jin Yao Chin, Wei Guo, Yong Liu, Huifeng Guo, Defu Lian, Ruiming Tang, Enhong Chen},
+  journal={arXiv preprint arXiv:2412.00430},
+  year={2024}
+}
+```
+```bibtex
+@article{wu2024survey,
+  title={A survey on large language models for recommendation},
+  author={Wu, Likang and Zheng, Zhi and Qiu, Zhaopeng and Wang, Hao and Gu, Hongchao and Shen, Tingjia and Qin, Chuan and Zhu, Chen and Zhu, Hengshu and Liu, Qi and others},
+  journal={World Wide Web},
+  volume={27},
+  number={5},
+  pages={60},
+  year={2024},
+  publisher={Springer}
+}
+```
